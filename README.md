@@ -26,12 +26,10 @@ DIARDE was designed as a web based service and consists of following components:
 * DIARDEAdmin: a web app, designed to manage the system from a desktop computer. The admin tool is created with Angular 2+. 
 * DIARDETool: the central component of DIARDE, a graphical web-app created with Angular 2+. Used to extract room geometries.
 * DIARDEWebApp: an web app for the smartphone where users can upload room photos and view 3-D models and floorplans.
-  
-  
 
 # Enough TLDR sentiments, show me an example please....
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/Diarde/DIARDE/main/doc/picture1.png)
 
 # Sure, I understand the concept but can you fill me in with some key ideas and technology used? 
 
