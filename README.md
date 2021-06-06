@@ -31,7 +31,7 @@ DIARDE was designed as a web based service and consists of following components:
 
 # Enough TLDR sentiments, show me an example please....
 
-![alt text](https://raw.githubusercontent.com/Diarde/DIARDE/main/doc/picture1.png)
+![alt text](https://raw.githubusercontent.com/Diarde/DIARDE/main/doc/picture1.png =100x20)
 
 # Sure, I understand the concept but can you fill me in with some key ideas and technology used? 
 
