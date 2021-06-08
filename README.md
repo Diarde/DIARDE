@@ -57,6 +57,9 @@ Please refer to .... to get an understanding how rooms are modelled.
 
 The created 3-D model and layout plan will be visible to the user:
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diarde/DIARDE/main/doc/picture3.png" />
+</p>
 
 DIARDE features plugins for SketchUp and AutoCAD to generate CAD files:
 
