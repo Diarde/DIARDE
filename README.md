@@ -63,6 +63,9 @@ The created 3-D model and layout plan will be visible to the user:
 
 DIARDE features plugins for SketchUp and AutoCAD to generate CAD files:
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diarde/DIARDE/main/doc/picture4.png" />
+</p>
 
 These can be requested by the user. 
 # DIARDE software components
