@@ -37,7 +37,7 @@ example below features 6 photos. While more photos potentially increase precisio
 in most cases 4 photos are enough:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Diarde/DIARDE/main/doc/picture2.png" />
+  <img src="https://raw.githubusercontent.com/Diarde/DIARDE/main/doc/picture1.png" />
 </p>
 
 if you look closely at these sample photos you will see A4-paper attached to some walls. A4-papers provide a reference length
@@ -47,7 +47,10 @@ the hight of the room or the lengths of a window frame.
 After taking your images, navigate to mobile.diarde.com on your smart phone, register with your email, add a new project
 and upload the photos: 
 
-![alt text](https://raw.githubusercontent.com/Diarde/DIARDE/main/doc/picture1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Diarde/DIARDE/main/doc/picture2.png" />
+</p>
+
 
 After the photos were uploaded the server DIARDE-Tool will be used to extract the room geometry and build the 3-D model. 
 Please refer to .... to get an understanding how rooms are modelled.
@@ -102,6 +105,8 @@ You are into back end development and like database design? Surem you can be res
 You like front end development and  ? The web-app, the admin panel and well as the tool to load the photos and extract the dimensions need work. 
 
 # RoadMap
+
+
 
  - Need Tests
  - Add native app for iphones
