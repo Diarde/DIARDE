@@ -77,7 +77,7 @@ DIARDE was designed as a web based service and consists of following components:
 * DIARDETool: the central component of DIARDE, a graphical web-app created with Angular 2+. Used to extract room geometries.
 * DIARDEWebApp: an web app for the smartphone where users can upload room photos and view 3-D models and floorplans.
 * DIARDEStecktup: a plugin to load the room models into sktechup. 
-* DIARDEFordXF: A tool to generate a dxf file for room models. 
+* [DIARDEForDXF](https://github.com/Diarde/DIARDEForDXF#readme): A tool to generate a dxf file for room models. 
 
 DIARDE Legacy code:
 
