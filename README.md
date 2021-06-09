@@ -72,10 +72,10 @@ These can be requested by the user.
 
 DIARDE was designed as a web based service and consists of following components:
 
-* [DIARDETool](https://github.com/Diarde/DIARDETool): The central component of DIARDE, a graphical web-app created with Angular 2+ to extract room geometries.
-* [DIARDEBackEnd](https://github.com/Diarde/DIARDEBackEnd): an express powered back end. The back end is backed by a MongoDB database.
-* [DIARDEMobile](https://github.com/Diarde/DIARDEMobile): an web app for the smartphone where users can upload room photos and view 3-D models and floorplans.
-* [DIARDEAdmin](https://github.com/Diarde/DIARDEAdmin): a web app, designed to manage the system from a desktop computer. Created with Angular 2+. 
+* [DIARDETool](https://github.com/Diarde/DIARDETool#readme): The central component of DIARDE, a graphical web-app created with Angular 2+ to extract room geometries.
+* [DIARDEBackEnd](https://github.com/Diarde/DIARDEBackEnd#readme): an express powered back end. The back end is backed by a MongoDB database.
+* [DIARDEMobile](https://github.com/Diarde/DIARDEMobile#readme): an web app for the smartphone where users can upload room photos and view 3-D models and floorplans.
+* [DIARDEAdmin](https://github.com/Diarde/DIARDEAdmin#readme): a web app, designed to manage the system from a desktop computer. Created with Angular 2+. 
 * [DIARDEForSketchUp](https://github.com/Diarde/DIARDEForSketchUp#readme): a plugin to load the room models into sktechup. 
 * [DIARDEForDXF](https://github.com/Diarde/DIARDEForDXF#readme): A tool to generate a dxf file for room models. 
 
