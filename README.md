@@ -10,7 +10,7 @@ and build a 3-D representation. The user/client is able to view the 3-D model an
 DIARDE Tool is certainly the central component of DIARDE and combines conventional photogrammetric methods, custom built algorithms
 and Computer Vision Neural Networks. Utilising Neural Networks is still very much work in progress. With increasing support of 
 AI the importance of the human-in-the-loop service provider will decrease. Evenytually DIARDE might be able to operate fully automatically.
-# How did it start and why does it matter so much to us?
+# How did it start and why does it matter?
 
 Interior design projects often start with an architect or designer visiting the premise that should be remodelled, refurbished or 
 redisigned. Armed with a yardstick or a a laser pointer measuring device, lengths, heights and distances are manually obtained. Back 
