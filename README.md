@@ -53,7 +53,7 @@ and upload the photos:
 
 
 After the photos were uploaded the server DIARDE-Tool will be used to extract the room geometry and build the 3-D model. 
-Please refer to .... to get an understanding how rooms are modelled.
+Please refer to [DIARDETool](https://github.com/Diarde/DIARDETool#readme) to get an understanding how rooms are modelled.
 
 The created 3-D model and layout plan will be visible to the user:
 
