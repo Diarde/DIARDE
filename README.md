@@ -53,7 +53,7 @@ and upload the photos:
 
 
 After the photos were uploaded the server DIARDE-Tool will be used to extract the room geometry and build the 3-D model. 
-Please refer to .... to get an understanding how rooms are modelled.
+Please refer to github.com/Diarde/DIARDETool to get an understanding how rooms are modelled.
 
 The created 3-D model and layout plan will be visible to the user:
 
@@ -76,14 +76,15 @@ DIARDE was designed as a web based service and consists of following components:
 * DIARDEAdmin: a web app, designed to manage the system from a desktop computer. The admin tool is created with Angular 2+. 
 * DIARDETool: the central component of DIARDE, a graphical web-app created with Angular 2+. Used to extract room geometries.
 * DIARDEWebApp: an web app for the smartphone where users can upload room photos and view 3-D models and floorplans.
-* DIARDEStecktup: a plugin to load the room models into sktechup. 
-* DIARDEFordXF: A tool to generate a dxf file for room models. 
+* DIARDESkecktUp: a plugin to load the room models into sktechup. 
+* DIARDEForDXF: A tool to generate a dxf file for room models. 
+* DIARDEForAndroid: 
 
 DIARDE Legacy code:
 
 * DIARDEKotlinPort: a kotlin port of DIARDE tool. deprecated
-* DIARDE
-
+* DIARDEForAutoCAD: 
+* 
 # Sure, I understand the concept but can you fill me in with some key ideas and technology used? 
 
 Giving you some details of the solution probably is not the easiest task and we have decided to give further detail 
@@ -100,7 +101,7 @@ If you are interested in contributing code, and we really appreciate any help, l
 # Where do I get help if I need it? 
 
 Write an email to studiocinqo@gmail.com or use the signal app to drop us a line: 
-# Why should I contribute?
+# Why do I want to contribute?
 
 DIARDE is designed to be a service and is consists of various components. So, no matter what your field of interest is, you are likely to find a task that is suited for you. 
 You are into computer vision and algorithmic work? There are alot of opportunities to improve on the current algorithms to calculate
@@ -111,8 +112,6 @@ You are into back end development and like database design? Surem you can be res
 You like front end development and  ? The web-app, the admin panel and well as the tool to load the photos and extract the dimensions need work. 
 
 # RoadMap
-
-
 
  - Need Tests
  - Add native app for iphones
