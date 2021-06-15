@@ -10,7 +10,7 @@ and build a 3-D representation. The user/client is able to view the 3-D model an
 DIARDE Tool is certainly the central component of DIARDE and combines conventional photogrammetric methods, custom built algorithms
 and Computer Vision Neural Networks. Utilising Neural Networks is still very much work in progress. With increasing support of 
 AI the importance of the human-in-the-loop service provider will decrease. Evenytually DIARDE might be able to operate fully automatically.
-# How did it start and why does it matter so much to us?
+# How did it start and why does it matter?
 
 Interior design projects often start with an architect or designer visiting the premise that should be remodelled, refurbished or 
 redisigned. Armed with a yardstick or a a laser pointer measuring device, lengths, heights and distances are manually obtained. Back 
@@ -53,7 +53,7 @@ and upload the photos:
 
 
 After the photos were uploaded the server DIARDE-Tool will be used to extract the room geometry and build the 3-D model. 
-Please refer to github.com/Diarde/DIARDETool to get an understanding how rooms are modelled.
+Please refer to [DIARDETool](https://github.com/Diarde/DIARDETool#readme) to get an understanding how rooms are modelled.
 
 The created 3-D model and layout plan will be visible to the user:
 
@@ -72,13 +72,12 @@ These can be requested by the user.
 
 DIARDE was designed as a web based service and consists of following components:
 
-* DIARDEBackEnd: an express powered back end. The back end is backed by a MongoDB database.
-* DIARDEAdmin: a web app, designed to manage the system from a desktop computer. The admin tool is created with Angular 2+. 
-* DIARDETool: the central component of DIARDE, a graphical web-app created with Angular 2+. Used to extract room geometries.
-* DIARDEWebApp: an web app for the smartphone where users can upload room photos and view 3-D models and floorplans.
-* DIARDESkecktUp: a plugin to load the room models into sktechup. 
-* DIARDEForDXF: A tool to generate a dxf file for room models. 
-* DIARDEForAndroid: 
+* [DIARDETool](https://github.com/Diarde/DIARDETool#readme): The central component of DIARDE, a graphical web-app created with Angular 2+ to extract room geometries.
+* [DIARDEBackEnd](https://github.com/Diarde/DIARDEBackEnd#readme): an express powered back end. The back end is backed by a MongoDB database.
+* [DIARDEMobile](https://github.com/Diarde/DIARDEMobile#readme): an web app for the smartphone where users can upload room photos and view 3-D models and floorplans.
+* [DIARDEAdmin](https://github.com/Diarde/DIARDEAdmin#readme): a web app, designed to manage the system from a desktop computer. Created with Angular 2+. 
+* [DIARDEForSketchUp](https://github.com/Diarde/DIARDEForSketchUp#readme): a plugin to load the room models into sktechup. 
+* [DIARDEForDXF](https://github.com/Diarde/DIARDEForDXF#readme): A tool to generate a dxf file for room models. 
 
 DIARDE Legacy code:
 
